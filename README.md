@@ -4,6 +4,12 @@
 
 [![Download  Abdal Header Analyzer](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/abdal-header-analyzer/files/latest/download)
 
+## Screenshot
+
+![](abdal-header-analyzer.jpg)
+![](https://github.com/abdal-security-group/abdal-header-analyzer/blob/main/img/abdal-header-analyzer.jpg)
+
+
 ## Made For
 
 Abdal Header Analyzer is a software for analyzing site and web server headers. As you know, headers contain information that security experts and hackers use to analyze targets.
