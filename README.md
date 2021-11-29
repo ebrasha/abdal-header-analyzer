@@ -31,7 +31,7 @@ Features
 - Open Source
 - high speed
 
-## Donation
+## ❤️ Donation
 > Donate link: https://donate.abdalagency.ir/
 
 
